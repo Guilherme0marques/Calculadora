@@ -21,7 +21,7 @@ Este é um projeto básico de uma calculadora feita em **Node.js**, que realiza 
 
 ---
 
-## 🖥️ Exemplo de uso
+## Exemplo de uso
 
 ```
 Digite o primeiro número: 10
